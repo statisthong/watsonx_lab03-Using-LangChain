@@ -1,0 +1,2 @@
+input: {name} {family_name} 은 {age}살 입니다. 그리고 {city}에 거주합니다. 그는 {purchase_history}을(를) 샀습니다.
+output: Recommendations: Item 1: {recommendation_1} Item 2: {recommendation_2}
